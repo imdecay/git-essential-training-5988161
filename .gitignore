@@ -3,4 +3,5 @@ node_modules
 .tmp
 npm-debug.log
 .vscode/settings.json
-.vscode/settings.json
+log02.log
+Second_Folder/*.log
